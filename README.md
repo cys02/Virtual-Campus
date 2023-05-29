@@ -2,4 +2,5 @@
 A virtual campus game based on Unity and C4D
 
 project poster:
-![海报](https://github.com/cys02/Virtual-Campus/assets/115866262/c7bb3d0b-4198-46e0-953b-2f603c478bf8)
+![海报](https://github.com/cys02/Virtual-Campus/assets/115866262/a5d5eb7d-4675-4488-8bb0-bcc11e79cb5c)
+
